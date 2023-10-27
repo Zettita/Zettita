@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uriel Solnik</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Python & JavaScript**
+- 🌱 I’m currently learning **Python & React**
 
 - 📫 How to reach me **Uriel.solnik@gmail.com**
 
