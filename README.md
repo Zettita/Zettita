@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **uriel.solnik@gmail.com**
 
-- 🌱 I’m currently learning **Python, SQL, JavaScript, React**
+- 🌱 I’m currently learning **Python, SQL, JavaScript & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
